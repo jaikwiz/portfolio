@@ -12,4 +12,4 @@ It includes my profile, projects, blog, and a contact form.
 
 ## Live Site
 
-👉 [Click here to visit](https://your-username.github.io/my-portfolio/)
+👉 [Click here to visit](https://jaikwiz.github.io/portfolio/)
